@@ -29,7 +29,8 @@ function handleText(textNode)  {
 
     v = v.replace(/\bMicaela Chinelli\b/g, "Miku Chocoretto");
 	v = v.replace(/\bmicaela chinelli\b/g, "Miku Chocoretto");
-    v = v.replace(/\b Chinelli\b/g, "Chocoretto");
+    v = v.replace(/\b Chinelli\b/g, " Chocoretto");
+		v = v.replace(/\b chinelli\b/g, " Chocoretto");
 	v = v.replace(/\bmicaela chinelli\b/g, "Miku Chocoretto");
 	textNode.nodeValue = v;
 }
