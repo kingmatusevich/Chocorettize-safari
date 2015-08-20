@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Javier Matusevich</string>
 	<key>Builder Version</key>
-	<string>8536.26.17</string>
+	<string>11601.1.50</string>
 	<key>CFBundleDisplayName</key>
 	<string>Chocorettize</string>
 	<key>CFBundleIdentifier</key>
@@ -29,7 +29,9 @@
 		</dict>
 	</dict>
 	<key>Description</key>
-	<string>Replaces occurrences of &apos;Micaela Chinelli&apos; with &apos;Miku Chocoretto&apos;.</string>
+	<string>Replaces occurrences of 'Micaela Chinelli' with 'Miku Chocoretto'.</string>
+	<key>DeveloperIdentifier</key>
+	<string>0000000000</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
